@@ -1,0 +1,2 @@
+Console.WriteLine("Hello world");
+print("hello my dear friend");
