@@ -1,2 +1,6 @@
 Console.WriteLine("Hello world");
+<<<<<<< HEAD
 heloogood
+=======
+hello
+>>>>>>> master
